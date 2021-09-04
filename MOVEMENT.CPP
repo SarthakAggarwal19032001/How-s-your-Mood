@@ -45,7 +45,8 @@ return 0;
 
 
 
-/*
+/*Additionaly can be added for more formatting purpose
+
 setcolor(YELLOW);
 circle(100,50,40);
 setfillstyle(SOLID_FILL,YELLOW);
@@ -56,7 +57,6 @@ ellipse(100,50,205,335,10,9);
 ellipse(100,50,205,335,10,10);
 ellipse(100,50,205,335,10,11);
 
-/*
 setcolor(RED);
 circle(60,300,40);
 setfillstyle(SOLID_FILL,YELLOW);
